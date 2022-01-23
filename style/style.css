@@ -146,10 +146,11 @@ body{
 }
 .item{
     width: 330px;
+    height: 441px;
     background: #F8F8F8;
     border-radius: 10px;
     text-align: center;
-    padding: 34px 0 27px;
+    padding: 36px 0 27px;
 }
 /* для изменения цвета при наведении */
 .item:hover{
